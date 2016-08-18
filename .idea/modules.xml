@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account-client/account-client.iml" filepath="$PROJECT_DIR$/account-client/account-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account-domain/account-domain.iml" filepath="$PROJECT_DIR$/account-domain/account-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friendslist/friendslist.iml" filepath="$PROJECT_DIR$/friendslist/friendslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverlist/serverlist.iml" filepath="$PROJECT_DIR$/serverlist/serverlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socialnetwork.iml" filepath="$PROJECT_DIR$/socialnetwork.iml" />
+    </modules>
+  </component>
+</project>
